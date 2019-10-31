@@ -7,6 +7,10 @@
     "start": "webpack --watch --progress --mode development",
     "build": "webpack --mode production"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1cgonza/dddrawings-js.git"
+  },
   "author": "Juan Camilo González Jiménez <info@juancgonzalez.com> (http://juancgonzalez.com/)",
   "license": "MIT",
   "devDependencies": {
